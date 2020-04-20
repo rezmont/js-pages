@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rezmont/js-pages/static/css/main.770667c9.chunk.css",
+    "main.js": "/rezmont/js-pages/static/js/main.87539f99.chunk.js",
+    "main.js.map": "/rezmont/js-pages/static/js/main.87539f99.chunk.js.map",
+    "runtime-main.js": "/rezmont/js-pages/static/js/runtime-main.1b02c363.js",
+    "runtime-main.js.map": "/rezmont/js-pages/static/js/runtime-main.1b02c363.js.map",
+    "static/js/2.738bf4e9.chunk.js": "/rezmont/js-pages/static/js/2.738bf4e9.chunk.js",
+    "static/js/2.738bf4e9.chunk.js.map": "/rezmont/js-pages/static/js/2.738bf4e9.chunk.js.map",
+    "index.html": "/rezmont/js-pages/index.html",
+    "precache-manifest.6ba003963ebe3e736ceb3468dd041ff1.js": "/rezmont/js-pages/precache-manifest.6ba003963ebe3e736ceb3468dd041ff1.js",
+    "service-worker.js": "/rezmont/js-pages/service-worker.js",
+    "static/css/main.770667c9.chunk.css.map": "/rezmont/js-pages/static/css/main.770667c9.chunk.css.map",
+    "static/js/2.738bf4e9.chunk.js.LICENSE.txt": "/rezmont/js-pages/static/js/2.738bf4e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b02c363.js",
+    "static/js/2.738bf4e9.chunk.js",
+    "static/css/main.770667c9.chunk.css",
+    "static/js/main.87539f99.chunk.js"
+  ]
+}
